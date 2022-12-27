@@ -17,6 +17,8 @@
         "no-shadow":"off",
         "no-alert":"off",
         "consistent-return":"off",
-        "prefer-const":"off"
+        "prefer-const":"off",
+        "no-undef":"off",
+        "no-param-reassign":"off"
     }
 }
